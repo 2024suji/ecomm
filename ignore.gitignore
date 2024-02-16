@@ -1,0 +1,9 @@
+images
+db.sqlite3
+/static
+.DS_Store
+*.pyc
+*~
+_pycache
+env
+TV1.jpg
